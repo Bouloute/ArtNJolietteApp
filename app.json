@@ -1,0 +1,12 @@
+{
+  "name": "Art-N-Joliette-Phone",
+  "displayName": "Art-N-Joliette-Phone",
+  "expo": {
+    "name": "Art-N-Joliette-Phone",
+    "slug": "Art-N-Joliette-Phone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
